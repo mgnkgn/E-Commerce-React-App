@@ -121,29 +121,6 @@ const ProductItem = (props) => {
             >
               <Button
                 className="btn-detail"
-                css={{
-                  color: "#fff",
-                  width: "33rem",
-                  height: "3.5rem",
-                  margin: "0 2rem 2rem 0",
-                  fontSize: "1.3rem",
-                  textTransform: "uppercase",
-                  letterSpacing: "1.2px",
-                  fontWeight: "600",
-                  fontFamily: "Spectral",
-                  background: "#000",
-                  border: ".5px solid #4D7A7F",
-                  padding: "1.8rem",
-                  "@mdMax": {
-                    fontSize: "0.9rem",
-                    fontWeight: "400",
-                    padding: "0.5rem",
-                    size: "xs",
-                    letterSpacing: "0.5px",
-                    width: "1rem",
-                    color: "purple",
-                  },
-                }}
                 bordered
                 rounded
                 color="secondary"
