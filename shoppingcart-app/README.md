@@ -2,6 +2,29 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## E-Commerce React App
+
+This is a simple react app that is made with utilizing the next ui library with together simple firebase realtime database in order to track orders that has been made and in the admin panel user can add, delete and update the products.
+
+## Netlify Link Below
+
+https://shopinguin.netlify.app
+
+## Demo
+
+### Main page
+
+![MainPage](./assets/shopinguin-i.gif)
+
+### Login as Admin
+
+![Login](./assets/shopinguin-iii.gif)
+
+### Adding a Product
+
+![AddingProduct-i](./assets/shopinguin-iv.gif)
+![AddingProduct-ii](./assets/shopinguin-v.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
